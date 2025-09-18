@@ -1,4 +1,4 @@
-sudo xbps-install -S git neovim xorg xinit i3 i3blocks dmenu j4-dmenu-desktop alacritty fish-shell feh chromium Thunar font-ibm-plex-otf gcc
+sudo xbps-install -f git neovim xorg xinit i3 i3blocks dmenu j4-dmenu-desktop alacritty fish-shell feh chromium Thunar font-ibm-plex-otf gcc
 
 git clone https://github.com/lucasrluz/dotfiles.git
 git clone https://github.com/lucasrluz/wallpaper.git
